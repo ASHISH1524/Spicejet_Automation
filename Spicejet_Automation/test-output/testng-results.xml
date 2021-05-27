@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90816" started-at="2021-05-22T15:19:15 IST" finished-at="2021-05-22T15:20:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90816" started-at="2021-05-22T15:19:15 IST" finished-at="2021-05-22T15:20:46 IST">
+      <class name="package1.TestCase1">
+        <test-method status="PASS" signature="browser_properties()[pri:0, instance:package1.TestCase1@63e2203c]" name="browser_properties" is-config="true" duration-ms="29369" started-at="2021-05-22T15:19:15 IST" finished-at="2021-05-22T15:19:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_properties -->
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:package1.TestCase1@63e2203c]" name="testcase1" duration-ms="60601" started-at="2021-05-22T15:19:46 IST" data-provider="ExcelData" finished-at="2021-05-22T15:20:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Coimbatore, IN - Peelamedu (CJB)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bangalore, IN - Kempegowda International Airport (BLR)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:package1.TestCase1@63e2203c]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-05-22T15:20:46 IST" finished-at="2021-05-22T15:20:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- package1.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

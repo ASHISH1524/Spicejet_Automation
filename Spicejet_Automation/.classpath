@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashish Mahato/.m2/repository/org/testng/testng/7.3.0/testng-7.3.0.jar" sourcepath="C:/Users/Ashish Mahato/.m2/repository/org/testng/testng/7.3.0/testng-7.3.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="7.3.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/testng-6.0.jar/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashish Mahato/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar" sourcepath="C:/Users/Ashish Mahato/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.sourceforge.jexcelapi"/>
+			<attribute name="maven.artifactId" value="jxl"/>
+			<attribute name="maven.version" value="2.6.12"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/apache-ant-1.10.9/lib/ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashish Mahato/Downloads/java-client-7.4.1-all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
